@@ -1,0 +1,20 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgreen;
+    font-family: sans-serif;
+    color: black;
+}
+
+
+
+
+
+
+.debug {
+    border: 2px solid red;
+}
+.polymeter {
+    font-family: monospace;
+    font-size: 1rem;
+}
